@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://jsandler:Ayurveda17.@cluster0-qode2.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "SecretPassword"
+}
